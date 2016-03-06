@@ -9,7 +9,7 @@ We provide MWE annotations with two type formats:
 ## Head Format
 
 MWE information is represented as one column in Head Style Format. <br>
-The column consists of a POS, a position, or a underscore (_).
+The column consists of a POS, a position, or an underscore (_).
 
 - A POS indicates the head token of an MWE, and means a appropriate POS of the MWE.
 
