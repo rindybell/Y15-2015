@@ -1,5 +1,4 @@
-# MWE annotations on OntoNotes
-1;2802;0c
+# Multiword Expression (MWE) annotations on OntoNotes
 We provide users with MWE annnotations on OntoNotes - 938,688 tokens (include a linefeed), which is based on the following paper: An Efficient Annotation for Phrasal Verbs using Dependency Information [1].
 
 We provide MWE annotations with two type formats:
@@ -9,7 +8,7 @@ We provide MWE annotations with two type formats:
 
 ## Head Format
 
-MWE information is represented as one column in Head Style Format.
+MWE information is represented as one column in Head Style Format. <br>
 The column consists of POS, position, or underscore (_).
 
 - A POS indicates the head token of an MWE, and means a appropriate POS of the MWE.
@@ -26,8 +25,7 @@ Example:
 
 ## BIO Format
 
-This format is same as Gappy, 1-level (6 tags) in [2].
-
+This format is same as Gappy, 1-level (6 tags) in [2]. <br>
 Please see also [2].
 
 ## References
