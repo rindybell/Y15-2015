@@ -21,7 +21,7 @@ Example:
 
 	24	that	_
 	25	show	VB
-	26	up	25
+	26	up		25
 
 ## BIO Format
 
