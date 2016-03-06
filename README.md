@@ -25,7 +25,7 @@ Example:
 
 ## BIO Format
 
-This format is same as Gappy, 1-level (6 tags) in [2]. <br>
+This format is same as *Gappy, 1-level (6 tags)* in [2]. <br>
 Please see also [2].
 
 ## References
