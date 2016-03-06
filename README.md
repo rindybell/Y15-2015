@@ -1,6 +1,6 @@
 # MWE annotations on OntoNotes
 
-We provide users with MWE annnotations on OntoNotes 938,688 tokens (include a linefeed), which is based on following the paper: An Efficient Annotation for Phrasal Verbs using Dependency Information [1].
+We provide users with MWE annnotations on OntoNotes - 938,688 tokens (include a linefeed), which is based on the following paper: An Efficient Annotation for Phrasal Verbs using Dependency Information [1].
 
 We provide MWE annotations with two type formats:
 
@@ -10,20 +10,20 @@ We provide MWE annotations with two type formats:
 ## Head Format
 
 MWE information is represented as one column in Head Style Format.
-The column consists of POS, position, or underscore (_).
-Here, A POS indicates the head token of an MWE, and means a appropriate POS of the MWE.
-A position indicates the tail token of an MWE, and means a position of the head of it.
-An underscore indicates a token except for an MWE. 
+The column consists of POS, position, or underscore (_). </ br>
+Here, A POS indicates the head token of an MWE, and means a appropriate POS of the MWE. </ br>
+A position indicates the tail token of an MWE, and means a position of the head of it. </ br>
+An underscore indicates a token except for an MWE.
 
 Example: 
 
-	 24	that	_
+	24	that	_
 	25	show	VB
 	26	up	25
 
 ## BIO Format
 
-This format is same as Gappy, 1-level (6 tags) in [2].
+This format is same as Gappy, 1-level (6 tags) in [2]. </ br>
 Please see also [2].
 
 ## References
