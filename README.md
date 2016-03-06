@@ -10,10 +10,13 @@ We provide MWE annotations with two type formats:
 ## Head Format
 
 MWE information is represented as one column in Head Style Format.
-The column consists of POS, position, or underscore (_). </ br>
-Here, A POS indicates the head token of an MWE, and means a appropriate POS of the MWE. </ br>
-A position indicates the tail token of an MWE, and means a position of the head of it. </ br>
-An underscore indicates a token except for an MWE.
+The column consists of POS, position, or underscore (_).
+
+- A POS indicates the head token of an MWE, and means a appropriate POS of the MWE.
+
+- A position indicates the tail token of an MWE, and means a position of the head of it.
+
+- An underscore indicates a token except for an MWE.
 
 Example: 
 
