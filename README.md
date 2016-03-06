@@ -3,8 +3,8 @@ We provide users with MWE annnotations on OntoNotes - 938,688 tokens (include a 
 
 We provide MWE annotations with two type formats:
 
-   1. Head Format
-   2. BIO Format
+   1. Head Style Format	   (resource/wsj_ontonotes_head.conll)
+   2. BIO Format	   (resource/wsj_ontonotes_bio.conll)
 
 ## Head Format
 
@@ -13,9 +13,9 @@ The column consists of POS, position, or underscore (_).
 
 - A POS indicates the head token of an MWE, and means a appropriate POS of the MWE.
 
-- A position indicates the tail token of an MWE, and means a position of the head of it.
+- A position indicates the tail tokens of an MWE, and means a position of the head of it.
 
-- An underscore indicates a token except for an MWE.
+- An underscore (_) indicates a token except for an MWE.
 
 Example: 
 
